@@ -1,4 +1,4 @@
-import request
+import requests
 
 DASHBOARD_URL = "http://localhost:3000/api/update"
 
